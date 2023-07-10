@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\Interop.SpeechLib.dll
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.vbproj.ResolveComReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\bin\Debug\AdvertiseVOICE.exe
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\bin\Debug\AdvertiseVOICE.pdb
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\bin\Debug\AdvertiseVOICE.xml
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\bin\Debug\Interop.SpeechLib.dll
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.exe
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.xml
+c:\users\dell\documents\visual studio 2013\Projects\AdvertiseVOICE\AdvertiseVOICE\obj\Debug\AdvertiseVOICE.pdb
